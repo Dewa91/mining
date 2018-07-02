@@ -15,7 +15,7 @@
 
 "pool_list" :
 [
-        {"pool_address" : "mining.bit.tube:11111", "wallet_address" : "bxcuG1GCmED86m2uWdeidLbzwJGtETJ1BPzJV1ikY5hs9KDWTz1D83HY6BF4CDi1SV3CRsWaYNVh7QAu84nQoH952Lk6oQdAj.b59e15e94e3a9287f1f2737ed6bd7a12e62769825d9511b42079fcfe0dc37eae", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : true, "tls_fingerprint" : "", "pool_weight" : 1 },
+        {"pool_address" : "mining.bit.tube:11111", "wallet_address" : "bxcuG1GCmED86m2uWdeidLbzwJGtETJ1BPzJV1ikY5hs9KDWTz1D83HY6BF4CDi1SV3CRsWaYNVh7QAu84nQoH952Lk6oQdAj.b59e15e94e3a9287f1f2737ed6bd7a12e62769825d9511b42079fcfe0dc37eae", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
